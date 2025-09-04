@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .COACH one-word domains still available to buy.
 
-This dataset contains 4,049 .COACH one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,078 .COACH one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.COACH one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=coach-oneword-domains&utm_content=description.top) (3,778) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,49 +13,49 @@ If you want to search & filters the complete database of [.COACH one word domain
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/coach-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/coach-oneword-domains/blob/main/coach.csv"><b>⬇️ CSV (4.05K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/coach-oneword-domains/blob/main/coach.json"><b>⬇️ JSON (4.05K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/coach-oneword-domains/blob/main/coach.csv"><b>⬇️ CSV (4.08K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/coach-oneword-domains/blob/main/coach.json"><b>⬇️ JSON (4.08K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=coach-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.78K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain           | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
-| ---------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| abactinal.coach  | available | 50       | 1%     | 9      |           |         |         |
-| abaft.coach      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.coach  | available | 58       | 10%    | 9      |           |         |         |
-| abashed.coach    | available | 60       | 2%     | 7      |           |         |         |
-| abasic.coach     | available | 54       | 2%     | 6      |           |         |         |
-| abatable.coach   | available | 54       | 1%     | 8      |           |         |         |
-| abatic.coach     | available | 54       | 2%     | 6      |           |         |         |
-| abaxial.coach    | available | 54       | 2%     | 7      |           |         |         |
-| abbatial.coach   | available | 50       | 1%     | 8      |           |         |         |
-| abdicable.coach  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.coach  | available | 82       | 1%     | 9      |           |         |         |
-| abdominous.coach | available | 56       | 1%     | 10     |           |         |         |
-| abducens.coach   | available | 54       | 1%     | 8      |           |         |         |
-| abducent.coach   | available | 68       | 1%     | 8      |           |         |         |
-| abducting.coach  | available | 50       | 1%     | 9      |           |         |         |
-| abenaki.coach    | available | 82       | 3%     | 7      |           |         |         |
-| aberdonian.coach | available | 68       | 1%     | 10     |           |         |         |
-| aberrant.coach   | available | 74       | 7%     | 8      |           |         |         |
-| abeyant.coach    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.coach  | available | 54       | 1%     | 9      |           |         |         |
-| abiding.coach    | available | 106      | 5%     | 7      |           |         |         |
-| abient.coach     | available | 54       | 1%     | 6      |           |         |         |
-| abit.coach       | available | 66       | 16%    | 5      |           |         |         |
-| abject.coach     | available | 94       | 8%     | 6      |           |         |         |
-| abkhas.coach     | available | 68       | 1%     | 6      |           |         |         |
-| abkhasian.coach  | available | 78       | 1%     | 9      |           |         |         |
-| abkhaz.coach     | available | 82       | 2%     | 6      |           |         |         |
-| abkhazian.coach  | available | 78       | 1%     | 9      |           |         |         |
-| ablated.coach    | available | 52       | 2%     | 7      |           |         |         |
-| ablative.coach   | available | 68       | 3%     | 8      |           |         |         |
+| Domain           | Status    | Attract. | Demand | Length | Registrar       | Created          | Expires          |
+| ---------------- | --------- | -------- | ------ | ------ | --------------- | ---------------- | ---------------- |
+| aaa.coach        | resell    | 70       | 38%    | 3      | Porkbun LLC     | 27/02/2025 21:51 | 27/02/2026 21:51 |
+| abactinal.coach  | available | 50       | 1%     | 9      |                 |                  |                  |
+| abaft.coach      | available | 43       | 2%     | 5      |                 |                  |                  |
+| abandoned.coach  | available | 58       | 10%    | 9      |                 |                  |                  |
+| abashed.coach    | available | 60       | 2%     | 7      |                 |                  |                  |
+| abasic.coach     | available | 54       | 2%     | 6      |                 |                  |                  |
+| abatable.coach   | available | 54       | 1%     | 8      |                 |                  |                  |
+| abatic.coach     | available | 54       | 2%     | 6      |                 |                  |                  |
+| abaxial.coach    | available | 54       | 2%     | 7      |                 |                  |                  |
+| abbatial.coach   | available | 50       | 1%     | 8      |                 |                  |                  |
+| abc.coach        | resell    | 102      | 41%    | 3      | Spaceship, Inc. | 14/08/2021 10:47 | 14/08/2026 10:47 |
+| abdicable.coach  | available | 50       | 1%     | 9      |                 |                  |                  |
+| abdominal.coach  | available | 82       | 1%     | 9      |                 |                  |                  |
+| abdominous.coach | available | 56       | 1%     | 10     |                 |                  |                  |
+| abducens.coach   | available | 54       | 1%     | 8      |                 |                  |                  |
+| abducent.coach   | available | 68       | 1%     | 8      |                 |                  |                  |
+| abducting.coach  | available | 50       | 1%     | 9      |                 |                  |                  |
+| abenaki.coach    | available | 82       | 3%     | 7      |                 |                  |                  |
+| aberdonian.coach | available | 68       | 1%     | 10     |                 |                  |                  |
+| aberrant.coach   | available | 74       | 7%     | 8      |                 |                  |                  |
+| abeyant.coach    | available | 56       | 2%     | 7      |                 |                  |                  |
+| abhorrent.coach  | available | 54       | 1%     | 9      |                 |                  |                  |
+| abiding.coach    | available | 106      | 5%     | 7      |                 |                  |                  |
+| abient.coach     | available | 54       | 1%     | 6      |                 |                  |                  |
+| abit.coach       | available | 66       | 16%    | 5      |                 |                  |                  |
+| abject.coach     | available | 94       | 8%     | 6      |                 |                  |                  |
+| abkhas.coach     | available | 68       | 1%     | 6      |                 |                  |                  |
+| abkhasian.coach  | available | 78       | 1%     | 9      |                 |                  |                  |
+| abkhaz.coach     | available | 82       | 2%     | 6      |                 |                  |                  |
+| abkhazian.coach  | available | 78       | 1%     | 9      |                 |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/coach-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/coach-oneword-domains/blob/main/coach.csv"><b>⬇️ CSV (4.05K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/coach-oneword-domains/blob/main/coach.json"><b>⬇️ JSON (4.05K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/coach-oneword-domains/blob/main/coach.csv"><b>⬇️ CSV (4.08K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/coach-oneword-domains/blob/main/coach.json"><b>⬇️ JSON (4.08K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=coach-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.78K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
