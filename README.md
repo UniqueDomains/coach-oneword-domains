@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .COACH one-word domains still available to buy.
 
-This dataset contains 4,237 .COACH one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,236 .COACH one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.COACH one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=coach-oneword-domains&utm_content=description.top) (4,239) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -24,7 +24,7 @@ If you want to search & filters the complete database of [.COACH one word domain
 | aaa.coach        | resell    | 70       | 38%    | 3      | Porkbun LLC     | 27/02/2025 21:51 | 27/02/2026 21:51 |
 | abactinal.coach  | available | 50       | 1%     | 9      |                 |                  |                  |
 | abaft.coach      | available | 43       | 2%     | 5      |                 |                  |                  |
-| abandoned.coach  | available | 58       | 10%    | 9      |                 |                  |                  |
+| abandoned.coach  | available | 58       | 7%     | 9      |                 |                  |                  |
 | abashed.coach    | available | 60       | 2%     | 7      |                 |                  |                  |
 | abasic.coach     | available | 54       | 2%     | 6      |                 |                  |                  |
 | abatable.coach   | available | 54       | 1%     | 8      |                 |                  |                  |
@@ -33,7 +33,7 @@ If you want to search & filters the complete database of [.COACH one word domain
 | abbatial.coach   | available | 50       | 1%     | 8      |                 |                  |                  |
 | abc.coach        | resell    | 102      | 41%    | 3      | Spaceship, Inc. | 14/08/2021 10:47 | 14/08/2026 10:47 |
 | abdicable.coach  | available | 50       | 1%     | 9      |                 |                  |                  |
-| abdominal.coach  | available | 82       | 1%     | 9      |                 |                  |                  |
+| abdominal.coach  | available | 82       | 5%     | 9      |                 |                  |                  |
 | abdominous.coach | available | 56       | 1%     | 10     |                 |                  |                  |
 | abducens.coach   | available | 54       | 1%     | 8      |                 |                  |                  |
 | abducent.coach   | available | 68       | 1%     | 8      |                 |                  |                  |
@@ -42,7 +42,7 @@ If you want to search & filters the complete database of [.COACH one word domain
 | aberdonian.coach | available | 68       | 1%     | 10     |                 |                  |                  |
 | aberrant.coach   | available | 74       | 7%     | 8      |                 |                  |                  |
 | abeyant.coach    | available | 56       | 2%     | 7      |                 |                  |                  |
-| abhorrent.coach  | available | 54       | 1%     | 9      |                 |                  |                  |
+| abhorrent.coach  | available | 54       | 3%     | 9      |                 |                  |                  |
 | abiding.coach    | available | 106      | 5%     | 7      |                 |                  |                  |
 | abient.coach     | available | 54       | 1%     | 6      |                 |                  |                  |
 | abit.coach       | available | 66       | 16%    | 5      |                 |                  |                  |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.COACH one word domain
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
