@@ -1,22 +1,22 @@
-# Available .COACH One-Word Domains (8,479)
+# Available .COACH One-Word Domains (8,476)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C476%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C479%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C474%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C476%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of available and resale .coach one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 8,476-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **8,479 domains** on the canonical page below.
+> **Important:** this repository is a **public 8,474-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **8,476 domains** on the canonical page below.
 
-**Public extract:** 8,476 rows · **Live catalog:** 8,479 domains
+**Public extract:** 8,474 rows · **Live catalog:** 8,476 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/coach`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .COACH one-word domain
 
 ### Files
 
-- `coach.csv` — public CSV extract (8,476 rows)
-- `coach.json` — public JSON extract (8,476 rows)
+- `coach.csv` — public CSV extract (8,474 rows)
+- `coach.json` — public JSON extract (8,474 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -64,7 +64,7 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
-| wizard.coach     | available | $19.99    | $92.99        | 118            | 46     | 6      | name.com     |
+| wizard.coach     | available | $19.99    | $92.99        | 118            | 43     | 6      | name.com     |
 | wise.coach       | resell    | —         | —             | 98             | 72     | 4      | Sav.com, LLC |
 | true.coach       | premium   | $250      | $250          | 86             | 48     | 4      | name.com     |
 | contact.coach    | available | $19.99    | —             | 84             | 43     | 7      | name.com     |
@@ -79,10 +79,10 @@ print(df.head())
 | gather.coach     | available | $19.99    | $92.99        | 96             | 38     | 6      | name.com     |
 | local.coach      | resell    | —         | —             | 102            | 54     | 5      | Sav.com, LLC |
 | sports.coach     | premium   | $1,040    | $1,040        | 110            | 37     | 6      | namecheap    |
-| about.coach      | available | $19.99    | $92.99        | 94             | 38     | 5      | name.com     |
+| check.coach      | available | $19.99    | $92.99        | 76             | 38     | 5      | name.com     |
 | buy.coach        | resell    | —         | —             | 106            | 53     | 3      | Dynadot Inc  |
 | technology.coach | premium   | $84.99    | —             | 92             | 35     | 10     | name.com     |
-| check.coach      | available | $19.99    | $92.99        | 76             | 38     | 5      | name.com     |
+| unify.coach      | available | $19.99    | $92.99        | 72             | 38     | 5      | name.com     |
 | fast.coach       | resell    | —         | —             | 82             | 53     | 4      | Dynadot Inc  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,476-row public sample | 8,479 live domains                               |
+| 8,474-row public sample | 8,476 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COACH One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COACH One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
