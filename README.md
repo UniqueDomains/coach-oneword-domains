@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .coach one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,337 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,337 domains · **Median ask:** $28.49 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,337 domains · **Median ask:** $26.93 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/coach`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/coach`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .COACH one-word domain
 
 ### Files
 
-- `coach.csv` — public CSV extract (1,000 rows)
-- `coach.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `coach.csv`, public CSV extract (1,000 rows)
+- `coach.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| Trex.coach         | available | $95.98    | —             | 80             | 24     | 5      | namecheap        |
-| girls.coach        | available | $19.99    | —             | 83             | 23     | 5      | name.com         |
-| WiFi.coach         | available | $95.98    | —             | 83             | 37     | 5      | namecheap        |
-| homes.coach        | available | $19.99    | —             | 86             | 34     | 5      | name.com         |
-| finals.coach       | available | $19.99    | —             | 80             | 7      | 6      | name.com         |
-| jewels.coach       | available | $19.99    | —             | 80             | 15     | 6      | name.com         |
-| forces.coach       | available | $19.99    | —             | 82             | 12     | 6      | name.com         |
-| popup.coach        | available | $19.99    | —             | 84             | 28     | 6      | name.com         |
-| edamame.coach      | available | $19.99    | —             | 80             | 9      | 7      | name.com         |
-| QandA.coach        | available | $95.98    | —             | 80             | 10     | 7      | namecheap        |
-| hangon.coach       | available | $19.99    | —             | 82             | 6      | 7      | name.com         |
-| stirup.coach       | available | $19.99    | —             | 82             | 3      | 7      | name.com         |
-| getlife.coach      | available | $19.99    | —             | 80             | 5      | 8      | name.com         |
-| FabFour.coach      | available | $19.99    | —             | 82             | 3      | 8      | name.com         |
-| investors.coach    | resell    | —         | —             | 60             | 23     | 9      | GoDaddy.com, LLC |
-| loans.coach        | premium   | $242      | $242          | 58             | 24     | 5      | namesilo         |
-| neuroscience.coach | available | $19.99    | —             | 80             | 37     | 12     | name.com         |
-| coaches.coach      | resell    | —         | —             | 56             | 15     | 7      | Sav.com, LLC     |
-| reports.coach      | premium   | $250      | —             | 58             | 24     | 7      | name.com         |
-| restaurants.coach  | premium   | $250      | —             | 57             | 21     | 11     | name.com         |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| come.coach    | available | $19.99    | —             | high           | low    | 4      | name.com                                                  |
+| content.coach | resell    | —         | —             | high           | low    | 7      | Dynadot Inc                                               |
+| dip.coach     | available | $19.99    | $92.99        | high           | low    | 3      | name.com                                                  |
+| fin.coach     | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc                                               |
+| fat.coach     | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                                                  |
+| due.coach     | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| food.coach    | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.                                           |
+| asian.coach   | premium   | $84.99    | —             | high           | low    | 5      | name.com                                                  |
+| Eid.coach     | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| angel.coach   | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC                                              |
+| dutch.coach   | premium   | $250      | $250          | high           | low    | 5      | name.com                                                  |
+| fix.coach     | available | $19.99    | —             | medium         | low    | 3      | name.com                                                  |
+| circle.coach  | resell    | —         | —             | medium         | medium | 6      | Dynadot Inc                                               |
+| links.coach   | premium   | $250      | —             | high           | low    | 5      | name.com                                                  |
+| ill.coach     | available | $19.99    | —             | medium         | low    | 3      | name.com                                                  |
+| memory.coach  | resell    | —         | —             | high           | medium | 6      | IONOS SE                                                  |
+| pizza.coach   | premium   | $242      | $242          | high           | low    | 5      | namesilo                                                  |
+| MMR.coach     | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| mental.coach  | resell    | —         | —             | high           | low    | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
+| promo.coach   | premium   | $250      | —             | high           | low    | 5      | name.com                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .coach domains. The set spans direct keyword terms, broad nouns, and category words such as Acup.coach, girls.coach, homes.coach, WiFi.coach, and finals.coach. For founders, the main question is whether the word makes the coaching use case obvious enough to feel credible and memorable. For investors, the key test is whether the term has clear commercial intent, broad buyer appeal, and enough relevance to justify the ask. With a median ask of 28.49, low entry pricing can help, but the word itself still determines long-term resale potential, renewal tolerance, and end-user fit.
+This is a set of 11,337 one-word .coach domain names built from short, everyday English words like out, half, okay, and content. Because each name pairs a single common word with the .coach extension, the resulting addresses read as instantly relevant to coaching, mentoring, and personal-development brands. The median asking price across the set is about $27, making most names accessible before factoring in ongoing renewal costs. Word choice, not extension length, drives the differences in appeal here — some names lean conversational (okay, damn, sorry), others lean functional (correct, clean, content) — so evaluating fit against a specific coaching niche is the main way to narrow this list.
 
-- All results are one-word domains on the .coach extension
-- Median ask across this set is 28.49
-- Favor clear terms with obvious coaching relevance
-- Check brand risk on generic words versus distinctive terms
+- 11,337 one-word .coach domains in this selection
+- Median asking price near $27 across the set
+- Short, everyday words like feel, clean, and correct
+- Ideal for coaching, consulting, and wellness brands
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COACH One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COACH One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
