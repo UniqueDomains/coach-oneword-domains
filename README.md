@@ -1,10 +1,10 @@
-# Available .COACH One-Word Domains (11,337)
+# Available .COACH One-Word Domains (11,343)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C337%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C343%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .coach one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,337 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,343 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,337 domains · **Median ask:** $26.93 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,343 domains · **Median ask:** $25.13 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-07-07
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/coach`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| come.coach    | available | $19.99    | —             | high           | low    | 4      | name.com                                                  |
-| content.coach | resell    | —         | —             | high           | low    | 7      | Dynadot Inc                                               |
-| dip.coach     | available | $19.99    | $92.99        | high           | low    | 3      | name.com                                                  |
-| fin.coach     | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc                                               |
-| fat.coach     | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                                                  |
-| due.coach     | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
-| food.coach    | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.                                           |
-| asian.coach   | premium   | $84.99    | —             | high           | low    | 5      | name.com                                                  |
-| Eid.coach     | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
-| angel.coach   | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC                                              |
-| dutch.coach   | premium   | $250      | $250          | high           | low    | 5      | name.com                                                  |
-| fix.coach     | available | $19.99    | —             | medium         | low    | 3      | name.com                                                  |
-| circle.coach  | resell    | —         | —             | medium         | medium | 6      | Dynadot Inc                                               |
-| links.coach   | premium   | $250      | —             | high           | low    | 5      | name.com                                                  |
-| ill.coach     | available | $19.99    | —             | medium         | low    | 3      | name.com                                                  |
-| memory.coach  | resell    | —         | —             | high           | medium | 6      | IONOS SE                                                  |
-| pizza.coach   | premium   | $242      | $242          | high           | low    | 5      | namesilo                                                  |
-| MMR.coach     | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
-| mental.coach  | resell    | —         | —             | high           | low    | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
-| promo.coach   | premium   | $250      | —             | high           | low    | 5      | name.com                                                  |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| dip.coach    | available | $19.99    | $92.99        | high           | low    | 3      | name.com                                                  |
+| fin.coach    | resell    | —         | —             | low            | low    | 3      | Dynadot Inc                                               |
+| fat.coach    | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                                                  |
+| due.coach    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| food.coach   | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.                                           |
+| asian.coach  | premium   | $84.99    | —             | high           | low    | 5      | name.com                                                  |
+| Eid.coach    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| angel.coach  | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC                                              |
+| dutch.coach  | premium   | $250      | $250          | high           | low    | 5      | name.com                                                  |
+| fix.coach    | available | $19.99    | —             | medium         | low    | 3      | name.com                                                  |
+| circle.coach | resell    | —         | —             | medium         | medium | 6      | Dynadot Inc                                               |
+| links.coach  | premium   | $250      | —             | high           | low    | 5      | name.com                                                  |
+| ill.coach    | available | $19.99    | —             | medium         | low    | 3      | name.com                                                  |
+| memory.coach | resell    | —         | —             | high           | medium | 6      | IONOS SE                                                  |
+| pizza.coach  | premium   | $242      | $242          | high           | low    | 5      | namesilo                                                  |
+| ixc.coach    | available | $11.98    | $95.98        | low            | low    | 3      | namecheap                                                 |
+| mental.coach | resell    | —         | —             | high           | low    | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
+| promo.coach  | premium   | $250      | —             | high           | low    | 5      | name.com                                                  |
+| MMR.coach    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| motion.coach | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC                                          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,337 live domains                        |
+| 1,000-row public sample | 11,343 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COACH One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COACH One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
