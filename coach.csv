@@ -53,7 +53,7 @@ b2ce55e1-0599-4d62-89c4-4d88f23bffd3,anoxemic.coach,available,11.98,95.98,low,lo
 790086fa-a7cb-429e-821c-1ee6635724f4,swell.coach,available,11.98,95.98,medium,low,5,namecheap,,,08/08/2026 12:50
 8daf8921-1ed9-4396-8e39-d9e54b5716db,wonder.coach,available,19.99,,high,medium,6,name.com,,,
 3d38196a-8efd-4ac8-81a2-22160e4d3a90,pancreas.coach,available,19.99,,medium,low,8,name.com,,,
-6e386325-d0e7-46e0-9ab2-5a0e4622084d,tenner.coach,available,19.99,92.99,medium,low,6,name.com,,,
+6e386325-d0e7-46e0-9ab2-5a0e4622084d,tenner.coach,available,11.98,95.98,low,low,6,namecheap,,,21/09/2026 10:53
 ab6735c3-4670-48eb-89cc-75d89576e9fb,blooddonation.coach,available,19.99,,high,low,14,name.com,,,
 f15da5ba-48fe-4e6a-903d-09a0f7da8656,ninetyone.coach,available,11.98,95.98,low,low,10,namecheap,,,
 d2675cd8-5976-4470-bcb8-91f2a9b1e9dc,kiss.coach,available,19.99,,high,low,4,name.com,,,
@@ -65,11 +65,11 @@ d1610c49-5d92-45ea-8169-41552300be90,nitric.coach,available,11.98,95.98,low,low,
 ea7f3191-49bb-45fe-bd1d-fabe248ba048,comeintotheworld.coach,available,19.99,,high,low,19,name.com,,,
 402467bd-4a9f-46fb-829f-7d0635dd5591,vocalcords.coach,available,19.99,,medium,low,11,name.com,,,
 58e10317-e668-4535-97b8-0fb05ebd2a44,doledout.coach,available,11.98,95.98,low,low,9,namecheap,,,08/09/2026 04:38
-4541013c-5c31-4d36-83f8-1af776f45701,elderly.coach,available,19.99,92.99,high,low,7,name.com,,,
+4541013c-5c31-4d36-83f8-1af776f45701,elderly.coach,available,17.99,77.99,medium,low,7,namesilo,,,21/09/2026 22:30
 57340b74-cb72-41ed-b81f-627b229621c3,unquestionable.coach,available,19.99,,high,low,14,name.com,,,
 5ae3d308-b2cd-4c5f-9b4e-fe1cea036f5a,westbay.coach,available,19.99,,low,low,8,name.com,,,
 fcd871d6-30e5-42ee-b510-b4ccd00ae77a,upcoming.coach,available,11.98,95.98,low,low,8,namecheap,,,06/08/2026 08:39
-d8142369-87ca-4ad9-805e-400ea1be3dc1,baggy.coach,available,19.99,,high,low,5,name.com,,,
+d8142369-87ca-4ad9-805e-400ea1be3dc1,baggy.coach,available,17.99,77.99,low,low,5,namesilo,,,22/09/2026 16:21
 489ed7e5-2989-4dfd-88b0-72e0de8e7491,quaternary.coach,available,11.98,95.98,low,low,10,namecheap,,,
 a7ec2604-6406-4ce1-bd30-3762f75c5059,atthedropofahat.coach,available,19.99,,high,low,20,name.com,,,
 3ace71b4-5ac6-492b-bdb7-83101c97bcfa,lightly.coach,available,19.99,,medium,low,7,name.com,,,
@@ -128,11 +128,11 @@ e10ea250-532c-429e-8096-7c7e710949bb,could.coach,available,19.99,,high,low,5,nam
 dbf252f9-b3c8-44ae-8431-7072e6bdc3ab,antitank.coach,available,11.98,95.98,low,low,8,namecheap,,,05/08/2026 19:44
 a069d26c-042f-4ce6-b67e-050d63fe85c8,tried.coach,available,19.99,,high,low,5,name.com,,,
 c9fef036-7717-48f4-8bfd-f2a2e085e8e0,equivocal.coach,available,11.98,95.98,low,low,9,namecheap,,,
-2eb7f537-b240-4d83-9274-052d7de2dfa1,blacktie.coach,available,19.99,,medium,low,9,name.com,,,
+2eb7f537-b240-4d83-9274-052d7de2dfa1,blacktie.coach,available,11.98,95.98,low,low,9,namecheap,,,22/09/2026 21:36
 5cbbb15b-5ca8-4caa-83fa-0dc23e57a78c,beatout.coach,available,11.98,95.98,low,low,8,namecheap,,,09/08/2026 05:17
 6380a6ad-77c4-4cb3-96ec-f51711aaf3f6,netflix.coach,available,,,high,medium,7,,,,
 3577d911-dc20-4334-ae49-618cf840a485,sodawater.coach,available,19.99,,high,low,10,name.com,,,
-0c3a4431-d09a-4af0-be0a-08def8dad547,nine.coach,available,19.99,,high,low,4,name.com,,,
+0c3a4431-d09a-4af0-be0a-08def8dad547,nine.coach,available,11.98,95.98,low,low,4,namecheap,,,21/09/2026 13:23
 5c84cac4-cd07-46d4-b514-b321b091c86c,judgement.coach,available,19.99,,medium,low,9,name.com,,,
 7ec3f39d-90e1-4700-a5b9-156fd7707cba,takeback.coach,available,19.99,,medium,low,9,name.com,,,
 cb28f765-897c-4bf8-98ba-082ae84f9438,lisbon.coach,available,19.99,,high,low,6,name.com,,,
@@ -172,7 +172,7 @@ d9488c58-3095-4188-9271-6170ac56796d,tightenup.coach,available,19.99,,medium,low
 eb01b3f3-4160-48f7-a0a1-a1a75f632bab,anorexic.coach,available,11.98,95.98,low,low,8,namecheap,,,
 7b0cf718-37f6-4cfb-853e-32705fe4d8c3,anuretic.coach,available,11.98,95.98,low,low,8,namecheap,,,05/08/2026 21:16
 e5300903-3c74-4e21-a779-3124476f4a7b,airtight.coach,available,11.98,95.98,low,low,8,namecheap,,,
-ebf0ebfe-45db-4e96-995b-d7c66bba2a8b,numb.coach,available,19.99,,high,low,4,name.com,,,
+ebf0ebfe-45db-4e96-995b-d7c66bba2a8b,numb.coach,available,11.98,95.98,low,low,4,namecheap,,,22/09/2026 19:39
 ae213f79-02ac-4a86-a82b-7fceed717077,scarlett.coach,available,19.99,,medium,low,8,name.com,,,
 75dec44a-605c-41a4-af5e-e3604a7dc994,sextet.coach,available,11.98,95.98,low,low,6,namecheap,,,
 25c71888-d6fb-4b86-91c5-ae8cae926854,mysterious.coach,available,19.99,92.99,medium,low,10,name.com,,,
@@ -218,7 +218,7 @@ ed06be18-09ca-4334-b21c-4e426ff508f6,callfor.coach,available,19.99,,high,low,8,n
 34ff24e5-1a94-4ca4-8ad8-8ad20741ea09,antsy.coach,available,11.98,95.98,low,low,5,namecheap,,,05/08/2026 20:27
 b06a6699-aa39-4527-ba22-8d77aba8ca55,stove.coach,available,11.98,95.98,low,low,5,namecheap,,,19/09/2026 18:48
 01abb3d8-8c1e-4fdc-bfb0-fdd15210c05c,soothing.coach,available,11.98,95.98,low,low,8,namecheap,,,07/08/2026 07:40
-a9980de3-2d07-447c-ba0c-8d5a0a3749d5,derelict.coach,available,19.99,92.99,high,low,8,name.com,,,
+a9980de3-2d07-447c-ba0c-8d5a0a3749d5,derelict.coach,available,17.99,77.99,low,low,8,namesilo,,,21/09/2026 13:39
 3f836094-64f7-4e7e-81a2-fdef490aa320,ihearyousay.coach,available,19.99,,medium,low,14,name.com,,,
 69d9176e-f542-45a2-9829-88c10b8cc97e,cocoa.coach,available,19.99,,high,low,5,name.com,,,
 a401e0d8-d51d-475c-b875-6597c08e7cec,agonistic.coach,available,11.98,95.98,low,low,9,namecheap,,,
@@ -237,8 +237,8 @@ a179014e-fb9c-4d41-872e-413648c6c654,soldier.coach,available,19.99,,medium,low,7
 33c906fa-c646-4b32-801c-b4c407c49066,lxxx.coach,available,11.98,95.98,low,low,4,namecheap,,,
 3a2b49cb-c4ca-4d5d-b4bf-25cba6c87961,rejoin.coach,available,19.99,,high,low,6,name.com,,,
 fe93dbd4-8fb8-4b07-bc9e-2969bb26aaf2,tonguetwister.coach,available,19.99,,low,low,14,name.com,,,
-3e84e4a1-f5a7-4835-b605-7835b834b96e,romantic.coach,available,19.99,,high,low,8,name.com,,,
-06378b72-74e1-4f08-a746-7646f03c80b9,balsamic.coach,available,19.99,,high,low,8,name.com,,,
+3e84e4a1-f5a7-4835-b605-7835b834b96e,romantic.coach,available,17.99,77.99,medium,low,8,namesilo,,,22/09/2026 03:28
+06378b72-74e1-4f08-a746-7646f03c80b9,balsamic.coach,available,11.98,95.98,medium,low,8,namecheap,,,22/09/2026 16:34
 7d4b92cc-fdc0-45a2-8d96-1951b1f7cb6e,clxx.coach,available,11.98,95.98,low,low,4,namecheap,,,
 dcd5e90d-65ab-422c-a92f-d11cc0f2362f,thankyoucard.coach,available,19.99,,low,low,14,name.com,,,
 d7341aba-b5ed-4b11-b5d0-a0592d9a53cc,respects.coach,available,19.99,,high,low,8,name.com,,,
@@ -248,7 +248,7 @@ bcc53e3c-7e6b-4c67-8e46-450da5aa800e,ignore.coach,available,19.99,,medium,low,6,
 bbbad83c-d491-414b-bf45-cdb1718b7ddf,chinesenoodles.coach,available,19.99,,medium,low,15,name.com,,,
 891cef7e-45fc-4848-be7e-6e8e0fdf6622,crack.coach,available,11.98,95.98,medium,low,5,namecheap,,,
 d3a76e0f-741f-4de7-aafd-a2b99dfb5359,showaleg.coach,available,19.99,,low,low,10,name.com,,,
-47d95ae8-2bfd-4d23-a1b2-2e2c607a1e5d,xxi.coach,available,19.99,92.99,medium,low,3,name.com,,,
+47d95ae8-2bfd-4d23-a1b2-2e2c607a1e5d,xxi.coach,available,17.99,77.99,low,low,3,namesilo,,,21/09/2026 12:32
 0a82421c-6d6f-48b6-b5a3-4b6c6ec26c0b,royalpurple.coach,available,19.99,,low,low,12,name.com,,,
 4754ca2f-daf6-4347-9607-8ab7db6ccd97,schoolweek.coach,available,19.99,,low,low,11,name.com,,,
 2c62e41e-df39-4e28-85e0-3647878a1625,bristly.coach,available,11.98,95.98,low,low,7,namecheap,,,08/08/2026 17:18
@@ -280,13 +280,13 @@ f7750609-cb66-4d9e-9fa1-9d20c06144de,eyes.coach,available,19.99,,high,low,4,name
 ada289aa-a333-4d1c-bc05-1b38c9e6ff9f,glory.coach,available,19.99,,high,low,5,name.com,,,
 5b5d89ad-bc65-494d-93be-8ec9479f7637,aphoristic.coach,available,11.98,95.98,low,low,10,namecheap,,,05/08/2026 23:31
 69f1e4ad-07bd-4491-a1b7-606dc7146067,respond.coach,available,19.99,,high,low,7,name.com,,,
-52482aa8-21eb-42be-9c43-adff73b5212e,licenced.coach,available,19.99,92.99,medium,low,8,name.com,,,
+52482aa8-21eb-42be-9c43-adff73b5212e,licenced.coach,available,11.98,95.98,low,low,8,namecheap,,,21/09/2026 15:56
 5d0b4350-f445-4144-be34-d36f5d330036,pizza.coach,premium,242,242,medium,low,5,namesilo,,,19/09/2026 05:58
 490a214a-d78a-4fb1-921d-57f5d888cf34,acinic.coach,available,11.98,95.98,low,low,6,namecheap,,,
 d45294e5-5fc3-4b35-9c0b-a35b4f92694d,highdefinition.coach,available,19.99,,high,low,15,name.com,,,
 31242d20-bbeb-4010-b75b-ef4b37ac8a6d,converse.coach,available,,,medium,high,8,,,,
 92347109-816d-4b15-bef7-ff311c7758b2,berrylike.coach,available,11.98,95.98,low,low,9,namecheap,,,08/08/2026 04:08
-4d1fed40-4d36-45ab-9900-f30743129e4b,blinking.coach,available,19.99,,high,low,8,name.com,,,
+4d1fed40-4d36-45ab-9900-f30743129e4b,blinking.coach,available,17.99,77.99,medium,low,8,namesilo,,,22/09/2026 21:58
 c4d051df-5ff9-4a78-b651-3c09a6208d17,masses.coach,available,19.99,,medium,low,6,name.com,,,
 fb01370a-1afa-488e-a461-c18c16270ee7,weeks.coach,available,19.99,,low,low,5,name.com,,,
 40949bb3-036e-4ec2-ac03-d73b05f832ff,kneedeep.coach,available,11.98,95.98,low,low,9,namecheap,,,
@@ -301,7 +301,6 @@ cac01056-a7e5-4d2e-bd0b-be494c5dbc0e,asthecasemaybe.coach,available,19.99,,mediu
 6974134d-77ed-49b7-9c22-12cdc2c309fe,makehaste.coach,available,19.99,,high,low,10,name.com,,,
 d9b63c63-16d6-447d-8ccc-23d77480a004,mods.coach,available,19.99,,high,low,4,name.com,,,
 43438f44-701e-45fc-b455-596a529055d6,notguilty.coach,available,11.98,95.98,low,low,10,namecheap,,,
-1fd2c639-e0e7-4121-84f0-f0f42c1f48e7,overseas.coach,available,19.99,92.99,medium,low,8,name.com,,,
 4dc1c9ce-8bf0-49c8-b28b-73712fd3e677,fat.coach,premium,78.54,78.54,medium,low,3,namesilo,,,
 d124ce16-ddfb-49d9-a33a-bb604e77b8f4,trivial.coach,available,19.99,,high,low,7,name.com,,,
 9f4849f8-6689-40a6-9532-59c2b2f48548,plausive.coach,available,11.98,95.98,low,low,8,namecheap,,,06/08/2026 08:54
@@ -313,6 +312,7 @@ aaed600f-7112-40d1-a1ac-c704928a86ad,passable.coach,available,19.99,,medium,low,
 b9ef180a-e5be-4d4b-a522-a1908db09439,inthehell.coach,available,19.99,,medium,low,11,name.com,,,
 ada8adb6-3d2e-449a-ae3d-2e6c821d1742,merit.coach,available,19.99,,high,low,5,name.com,,,
 22c21074-517a-48b7-8169-5868812c89a3,widowed.coach,available,19.99,,medium,low,7,name.com,,,
+7c02df4b-44f1-4cea-b625-5beba3884728,shit.coach,available,11.98,95.98,low,low,4,namecheap,,,22/09/2026 18:05
 c267a745-5288-4b92-9504-2eb6fbde5c0a,breathtaking.coach,available,19.99,,high,low,12,name.com,,,
 a0a20bf2-7e37-4207-8e0d-53cbb2c3b319,motherfukker.coach,available,19.99,,medium,low,12,name.com,,,
 4b32031c-13a5-418b-afe6-2a32a9ecd71d,algonkin.coach,available,11.98,95.98,low,low,8,namecheap,,,
@@ -342,12 +342,12 @@ e27b6dea-c9e4-43a1-b49a-a4318db09200,civiltime.coach,available,19.99,,medium,low
 38ec4e48-c4cd-4a04-bc85-ca0ede3c9942,redpanda.coach,available,19.99,,high,low,9,name.com,,,
 df72c588-987e-4d6c-8b88-8225bb4627a6,prat.coach,available,11.98,95.98,low,low,4,namecheap,,,09/08/2026 11:18
 309949fe-f619-48a6-8d5f-fc8a6c728850,mild.coach,available,19.99,,high,low,4,name.com,,,
-35228506-73e6-4669-ad0a-9503663597fb,thirteen.coach,available,19.99,92.99,high,low,8,name.com,,,
+35228506-73e6-4669-ad0a-9503663597fb,thirteen.coach,available,17.99,77.99,medium,low,8,namesilo,,,21/09/2026 11:32
 fe6df578-872d-484a-8853-2d4623ef8911,abkhas.coach,available,11.98,95.98,low,low,6,namecheap,,,
 3d27c87b-e1e7-4680-81df-3d138c294e0b,burning.coach,available,19.99,,high,low,7,name.com,,,
 1c1d0ed2-325a-4c32-9b6f-d1990a856455,whitesauce.coach,available,19.99,,low,low,11,name.com,,,
 ba11ad61-aaf9-4fd7-a19a-f2f0cc69c6d9,significantly.coach,available,19.99,,medium,low,13,name.com,,,
-03876d2a-ed92-4199-bac8-b0743e5921ab,blunt.coach,available,19.99,,medium,low,5,name.com,,,
+03876d2a-ed92-4199-bac8-b0743e5921ab,blunt.coach,available,11.98,95.98,low,low,5,namecheap,,,22/09/2026 23:15
 4305e384-1610-4a5d-9f97-c4db83b36f3a,existence.coach,available,19.99,,high,low,9,name.com,,,
 fe309f23-01c4-40b8-a255-2a3c60e182f2,speeding.coach,available,19.99,,high,low,8,name.com,,,
 89144164-4162-480a-a952-b286851d9b3c,bagshaped.coach,available,11.98,95.98,low,low,10,namecheap,,,08/08/2026 08:17
@@ -373,13 +373,13 @@ c7067caa-c007-4a39-8b9f-bf926e86501a,assessable.coach,available,11.98,95.98,low,
 8c0a2aae-4ce2-4b0e-9571-7a2d21147e89,screening.coach,available,19.99,,high,low,9,name.com,,,
 72c2672f-db54-4f98-bd63-28a850f4311e,mmr.coach,available,19.99,,high,low,3,name.com,,,
 35b4bbb8-8253-43ec-966a-2d81ac584f6e,grueling.coach,available,11.98,95.98,low,low,8,namecheap,,,06/08/2026 16:45
-4b945438-5eea-44b2-b8df-e0bf38067be8,coloured.coach,available,19.99,,medium,low,8,name.com,,,
+4b945438-5eea-44b2-b8df-e0bf38067be8,coloured.coach,available,11.98,95.98,low,low,8,namecheap,,,22/09/2026 20:29
 4febdb46-92d0-4802-961e-3419053dfc1d,trafficlights.coach,available,19.99,,low,low,14,name.com,,,
 b121a407-c99d-4d0b-afb1-75af97e4121a,kilogramme.coach,available,19.99,,medium,low,10,name.com,,,
 2e4d10ab-524a-4dbc-b8f2-5246176de4a9,ambrosial.coach,available,11.98,95.98,low,low,9,namecheap,,,
 bedc7810-e967-45bd-8d10-0f9eb02b869a,overlook.coach,available,19.99,,high,low,8,name.com,,,
 3150bb5a-bdd0-4156-beca-e71285ef2d4b,wife.coach,available,19.99,,high,low,4,name.com,,,
-911a3134-0f88-41d4-a4c0-307a3685f45b,passon.coach,available,19.99,92.99,high,low,7,name.com,,,
+911a3134-0f88-41d4-a4c0-307a3685f45b,passon.coach,available,11.98,95.98,low,low,7,namecheap,,,21/09/2026 20:29
 96b1c708-6192-44f5-98bf-9021239d8135,phoebe.coach,available,11.98,95.98,low,low,6,namecheap,,,
 f099082f-0ef5-44c8-9722-d4e880e4e452,equipped.coach,available,19.99,,medium,low,8,name.com,,,
 e0c5009c-45ea-483f-96cf-13b433f6b49c,consulting.coach,available,,,high,low,10,,,,
@@ -435,12 +435,11 @@ e3e7abaa-ffa5-4fde-91da-6ee759e778f7,under.coach,available,19.99,,high,low,5,nam
 995995b3-83b0-461c-a132-cc28bfa5e54a,extinction.coach,available,19.99,,medium,low,10,name.com,,,
 a4c00db0-cf00-4cfa-9d93-2406cc5b4040,flash.coach,available,,,medium,low,5,,,,
 a2db72ce-b688-4a52-94f1-744485fd3233,detoxify.coach,available,19.99,,high,low,8,name.com,,,
-7975e7b6-edc8-4f1f-801e-f7665175c31c,weakened.coach,available,19.99,,medium,low,8,name.com,,,
+7975e7b6-edc8-4f1f-801e-f7665175c31c,weakened.coach,available,17.99,77.99,low,low,8,namesilo,,,22/09/2026 11:29
 b81c6be4-b4f0-4044-a306-d908383868df,warmblooded.coach,available,19.99,,low,low,12,name.com,,,
 cc0e0896-8144-4169-86b5-4ccdbe07330a,hardly.coach,available,19.99,,high,low,6,name.com,,,
 d15865d3-a702-4b30-abbf-4ee6e850804f,detection.coach,available,19.99,,medium,low,9,name.com,,,
 5b057ddf-d524-4ebc-a9b2-dd79acd97d4a,support.coach,premium,78.54,78.54,medium,medium,7,namesilo,,,08/09/2026 07:15
-99e923c7-2538-4f90-a11f-4c980e857af9,bearing.coach,available,19.99,,high,low,7,name.com,,,
 c44f6358-473b-4172-9537-ecadfb550b91,exciting.coach,available,19.99,,high,low,8,name.com,,,
 920634e9-5f48-412c-8f9c-486f3a3a43af,philistine.coach,available,11.98,95.98,low,low,10,namecheap,,,
 7c29b7b6-a03e-4f17-89f0-7c62468e4c3f,manila.coach,available,19.99,,high,low,6,name.com,,,
@@ -459,10 +458,10 @@ f1ebf4ba-a892-495a-9b50-e799abdcdfa2,rosegold.coach,available,19.99,,medium,low,
 2bb3dd54-2251-4fe3-9065-00e155a8486d,fivesome.coach,available,11.98,95.98,low,low,8,namecheap,,,
 48ed7cff-3dca-4d5a-b900-f32518ceb93d,attention.coach,premium,78.54,78.54,high,low,9,namesilo,,,
 0e0087c1-b49b-4ba5-aded-3ea1039b9831,mentioned.coach,available,19.99,,medium,low,9,name.com,,,
-c8ecee2a-cd63-444b-a1f6-2bd5c728d8df,food.coach,resell,,,medium,low,4,"Spaceship, Inc.",11/03/2015 16:00,11/03/2027 16:00,19/09/2026 10:31
+c8ecee2a-cd63-444b-a1f6-2bd5c728d8df,food.coach,resell,,,medium,low,4,"Spaceship, Inc.",11/03/2015 16:00,11/03/2027 16:00,23/09/2026 03:58
 177bc0c8-5345-4f76-84e8-e90a66e66988,serialkiller.coach,available,19.99,,medium,low,13,name.com,,,
 da839537-c7bf-444a-97ea-d81b69888b58,increasing.coach,available,19.99,,high,low,10,name.com,,,
-26801ba9-4d05-43d7-9fc3-bcd99dd94c0b,medium.coach,available,19.99,,high,low,6,name.com,,,
+26801ba9-4d05-43d7-9fc3-bcd99dd94c0b,medium.coach,available,17.99,77.99,medium,low,6,namesilo,,,23/09/2026 04:17
 2aeadf90-afbe-48c0-b124-177202466344,havetime.coach,available,19.99,,high,low,9,name.com,,,
 e03755ef-218b-4165-85f5-082f0574fd4c,economic.coach,available,19.99,92.99,high,low,8,name.com,,,
 821eea5b-3dc9-43be-a094-516405216531,continuous.coach,available,19.99,92.99,high,low,10,name.com,,,
@@ -496,7 +495,7 @@ f7fac78f-d977-4e1d-96b4-c3b205c9ca9e,cancel.coach,available,19.99,,medium,low,6,
 4b2d98fb-978f-455c-aba2-b30a0a50f92b,unemployment.coach,available,19.99,,low,low,12,name.com,,,
 12278aeb-dedd-4f22-bad1-0a0956a9a894,conduction.coach,available,19.99,,high,low,10,name.com,,,
 52358d29-91fd-483a-b809-b0d527017c6d,strain.coach,available,19.99,,medium,low,6,name.com,,,
-f019f2d5-fd50-475a-82eb-afad011b8e7f,bacterial.coach,available,19.99,,medium,low,9,name.com,,,
+f019f2d5-fd50-475a-82eb-afad011b8e7f,bacterial.coach,available,17.99,77.99,low,low,9,namesilo,,,22/09/2026 16:00
 0c9499b0-36b3-4c13-a611-b46fcdb9bbde,auxetic.coach,available,11.98,95.98,low,low,7,namecheap,,,07/08/2026 21:28
 df93084f-565e-4d19-ad80-0e850dbc6135,cashmachine.coach,available,19.99,,medium,low,12,name.com,,,
 65755b0b-2f9b-43e1-870c-cb731d309a78,lasting.coach,available,19.99,92.99,high,low,7,name.com,,,
@@ -513,11 +512,11 @@ a1d80e89-275b-4aad-a9da-7004d3afa151,glitter.coach,available,19.99,,high,low,7,n
 04de280e-93d4-483e-9357-9a1799795a11,atrial.coach,available,11.98,95.98,low,low,6,namecheap,,,07/08/2026 14:24
 a7eaeee1-3ea1-438a-920d-f5172489ee15,anoxic.coach,available,11.98,95.98,low,low,6,namecheap,,,
 573be2b9-f1f4-4b73-94c0-e6c59592dfda,assailable.coach,available,11.98,95.98,low,low,10,namecheap,,,07/08/2026 05:27
-3cbc0046-e902-4914-9549-5999721566ac,joint.coach,available,19.99,,high,low,5,name.com,,,
+3cbc0046-e902-4914-9549-5999721566ac,joint.coach,available,17.99,77.99,medium,low,5,namesilo,,,22/09/2026 08:50
 f6313dc1-d25a-44c4-9194-9738026dc784,autotomic.coach,available,11.98,95.98,low,low,9,namecheap,,,07/08/2026 21:13
 aba34917-19bb-4adc-8cd9-4ced811322c5,lager.coach,available,19.99,,high,low,5,name.com,,,
 90570c76-3247-4659-b2aa-da510c8e855a,waiting.coach,available,19.99,,high,low,7,name.com,,,
-fdc11a28-7036-4b1c-9da6-b0752d7ce24b,tail.coach,available,19.99,,high,low,4,name.com,,,
+fdc11a28-7036-4b1c-9da6-b0752d7ce24b,tail.coach,available,11.98,95.98,medium,low,4,namecheap,,,22/09/2026 19:11
 6c2b195c-6008-409f-a3ae-0da3e80a4012,beall.coach,available,19.99,,medium,low,6,name.com,,,
 9b1c6c95-d9c2-4697-bef4-8edaf3f774ee,complain.coach,available,19.99,,medium,low,8,name.com,,,
 07b5512d-10a6-46aa-af6a-b69da2bedb82,attach.coach,available,19.99,92.99,high,low,6,name.com,,,
@@ -540,11 +539,11 @@ bb7b3406-60b9-4394-878e-beb271aa8988,nighttime.coach,available,19.99,,medium,low
 04037d7c-124c-4f0d-a3ae-3444a07a0eeb,impress.coach,available,19.99,,high,low,7,name.com,,,
 bd4fd3a8-c345-4e4e-a61b-aefcf598051b,niece.coach,available,19.99,,medium,low,5,name.com,,,
 ae780388-9e0b-45be-ac15-806bb65ff9e4,getthepicture.coach,available,19.99,,high,low,15,name.com,,,
-8a603561-ef8e-445b-9951-d41a84f1a3a2,superstar.coach,resell,,,high,low,9,"GoDaddy.com, LLC",17/07/2023 20:44,17/07/2027 20:44,19/09/2026 10:51
+8a603561-ef8e-445b-9951-d41a84f1a3a2,superstar.coach,resell,,,medium,low,9,"GoDaddy.com, LLC",17/07/2023 20:44,17/07/2027 20:44,21/09/2026 17:56
 82d0d28e-c2d6-4277-b682-dc89990f60a5,therebe.coach,available,19.99,,low,low,8,name.com,,,
 d3b2bfad-86ed-4409-b884-8a5ea4f9dc25,technicality.coach,available,19.99,,low,low,12,name.com,,,
 287b644c-0f97-499f-ba53-3a2fdb173aec,pubmed.coach,available,19.99,,high,low,6,name.com,,,
-4f4adc74-386e-425e-80a9-88757cc13b67,expectant.coach,available,19.99,,high,low,9,name.com,,,
+4f4adc74-386e-425e-80a9-88757cc13b67,expectant.coach,available,17.99,77.99,medium,low,9,namesilo,,,22/09/2026 06:48
 e6b98140-1342-4133-a136-2c9990dd5cc4,atheistic.coach,available,11.98,95.98,low,low,9,namecheap,,,07/08/2026 13:03
 fda0decd-cab2-4760-a0b3-9b76216c65e4,beery.coach,available,11.98,95.98,low,low,5,namecheap,,,09/08/2026 08:12
 9aa04b45-650a-4172-83e3-bb6174ee3294,sitdown.coach,available,19.99,,medium,low,8,name.com,,,
@@ -552,7 +551,7 @@ fda0decd-cab2-4760-a0b3-9b76216c65e4,beery.coach,available,11.98,95.98,low,low,5
 9428bc57-5145-483e-a1e8-45f4f99ec48e,motoroil.coach,available,19.99,,medium,low,9,name.com,,,
 77593232-b772-4cc6-a79c-ba36166b1acc,emotive.coach,available,11.98,95.98,low,low,7,namecheap,,,
 08eeb0f1-0c3d-41f2-ad60-1b0bf3163f77,vindicated.coach,available,11.98,95.98,low,low,10,namecheap,,,08/09/2026 05:23
-1047dbf4-8544-4017-bb20-61eb773559e3,balmy.coach,available,19.99,,high,low,5,name.com,,,
+1047dbf4-8544-4017-bb20-61eb773559e3,balmy.coach,available,11.98,95.98,low,low,5,namecheap,,,22/09/2026 08:11
 96ed07cb-a52c-4aed-884e-c25f457dc8fe,allfired.coach,available,11.98,95.98,low,low,9,namecheap,,,
 12879a4a-f0af-49ec-bbe7-1a0ecd167e4a,carry.coach,available,19.99,,medium,low,5,name.com,,,
 bcf528fc-e698-4387-955f-592a5689bf85,released.coach,available,19.99,,low,low,8,name.com,,,
@@ -585,7 +584,7 @@ dc9717a5-cdcf-43b2-a790-0cb557fd3723,alittle.coach,available,19.99,,medium,low,8
 83db3d87-d7e9-42bd-80d0-af5e2a2cc9b2,trite.coach,available,11.98,95.98,low,low,5,namecheap,,,08/08/2026 11:19
 7d0e5f5e-5d9e-4580-8016-385739edd495,redemption.coach,available,19.99,,medium,low,10,name.com,,,
 63168d3c-cbe1-443d-9373-de4ca1c55583,ventral.coach,available,11.98,95.98,low,low,7,namecheap,,,
-b365a354-f34a-4057-87ab-74b798192873,abovementioned.coach,available,19.99,,medium,low,15,name.com,,,
+b365a354-f34a-4057-87ab-74b798192873,abovementioned.coach,available,19.99,,low,low,15,name.com,,,
 0fd57a36-1051-443d-8ff1-4f4e2eab9997,justkidding.coach,available,19.99,,high,low,12,name.com,,,
 1868705c-d764-44a3-ac38-19b3ee13fd6c,daminozide.coach,available,11.98,95.98,low,low,10,namecheap,,,
 87771d55-4b2e-44c8-b7a2-a9269b8e695a,placative.coach,available,11.98,95.98,low,low,9,namecheap,,,06/08/2026 06:07
@@ -607,7 +606,7 @@ d6b62888-4092-4998-aa62-65201f46f7f8,lopsided.coach,available,11.98,95.98,low,lo
 74e3cb9d-9834-4bac-af15-e4e90f7d7e14,actress.coach,available,19.99,,high,low,7,name.com,,,
 adedb3d8-a58f-41e0-a136-323391bae8bf,baguette.coach,available,19.99,,high,low,8,name.com,,,
 a723f208-0216-4adf-bc89-7057bdfd8955,geek.coach,available,19.99,92.99,high,low,4,name.com,,,
-d37c191b-3a26-412e-a0e9-5b465b0aa898,arithmetic.coach,available,19.99,,high,low,10,name.com,,,
+d37c191b-3a26-412e-a0e9-5b465b0aa898,arithmetic.coach,available,17.99,77.99,low,low,10,namesilo,,,22/09/2026 07:53
 8bc00941-7f89-4d74-8bd5-20ddcdcbe2aa,catch.coach,available,19.99,,high,low,5,name.com,,,
 787e069a-fee0-4854-a151-1008ae54696f,attheriskof.coach,available,19.99,,medium,low,14,name.com,,,
 cde37f76-e5d6-404a-9fd4-b46174e979ab,rescue.coach,available,19.99,,high,low,6,name.com,,,
@@ -618,7 +617,7 @@ abac9329-fbc1-4199-89ff-9e3f075f5c99,aftuh.coach,available,19.99,,medium,low,5,n
 f111fe21-e15b-44eb-8f09-4ae9f65e6f1b,disconnect.coach,available,19.99,,high,low,10,name.com,,,
 32b69988-6c22-4434-a4fa-7b236b68a6c8,allotropic.coach,available,11.98,95.98,low,low,10,namecheap,,,
 aa9be50d-c236-482e-99d2-4faad7ce6199,granting.coach,available,19.99,,high,low,8,name.com,,,
-f223911c-97de-45ef-af72-eadfe7359693,security.coach,resell,,,medium,low,8,"Go Australia Domains, LLC",08/03/2015 16:00,08/03/2027 16:00,19/09/2026 04:42
+f223911c-97de-45ef-af72-eadfe7359693,security.coach,resell,,,medium,low,8,"Go Australia Domains, LLC",08/03/2015 16:00,08/03/2027 16:00,23/09/2026 02:48
 06b111db-84fe-4384-af19-7ed321f9e95d,garmented.coach,available,11.98,95.98,low,low,9,namecheap,,,06/08/2026 04:57
 90b7a72a-0e02-421e-b662-f39ad9ce2ca3,summary.coach,available,19.99,92.99,high,low,7,name.com,,,
 a61d0415-bab6-4d58-b96f-d8e5b24a5ef9,purchaseorder.coach,available,19.99,,high,low,14,name.com,,,
@@ -632,11 +631,11 @@ ea7a164b-03fd-4f14-aed5-d6ee191575ae,illness.coach,available,19.99,,medium,low,7
 2cd3bc63-84bf-48b3-8e4d-eddd74517191,peel.coach,available,19.99,,medium,low,4,name.com,,,
 6fe00bd4-edda-43c0-a5bd-2aa202e4f813,ballpointpen.coach,available,19.99,,high,low,14,name.com,,,
 0e3aec3b-2920-46d5-a72e-32e28721c724,aimless.coach,available,11.98,95.98,low,low,7,namecheap,,,
-b90fda37-676e-4050-8be8-79c048d8236b,abhorrent.coach,available,19.99,92.99,medium,low,9,name.com,,,
+b90fda37-676e-4050-8be8-79c048d8236b,abhorrent.coach,available,11.98,95.98,low,low,9,namecheap,,,21/09/2026 13:49
 4022f1f6-fac6-434e-ac73-2cc47d8c5746,chase.coach,available,,,medium,low,5,,,,
 54370fca-cc86-4b0d-99c2-bb35ff665b42,normallywhite.coach,available,19.99,,low,low,14,name.com,,,
 a555425e-f863-44f7-8b69-71e3bb6664f3,inthat.coach,available,19.99,,medium,low,7,name.com,,,
-721e43e6-e40d-4184-8f03-1eb2e9f3eeb2,antepartum.coach,available,19.99,,high,low,10,name.com,,,
+721e43e6-e40d-4184-8f03-1eb2e9f3eeb2,antepartum.coach,available,17.99,77.99,medium,low,10,namesilo,,,22/09/2026 06:01
 62f34fde-aafa-4c29-85c2-fd2492b37a7e,kitchensink.coach,available,19.99,,medium,low,12,name.com,,,
 9b2d60dd-ef63-48f1-9f79-1caeefad240a,dutch.coach,premium,250,250,high,low,5,name.com,,,
 8d4f9812-376c-4a33-b783-179e4f0e75da,bacchanal.coach,available,11.98,95.98,low,low,9,namecheap,,,08/08/2026 04:14
@@ -646,14 +645,14 @@ f5db2b25-dfee-4046-82eb-272750330704,japan.coach,available,,,high,low,5,,,,
 97eafd41-d1d7-458f-86cb-e9c4b5f92a25,dissolve.coach,available,19.99,,high,low,8,name.com,,,
 832c75af-eaf8-4c2c-8b4e-2d3b75eb6258,acronymous.coach,available,11.98,95.98,low,low,10,namecheap,,,
 3d6688e0-cd95-4995-bd80-bcdd013bf439,apology.coach,available,19.99,,high,low,7,name.com,,,
-15d97429-167a-4d0b-8ec5-6d5630bf9139,asian.coach,premium,84.99,,high,low,5,name.com,,,
+15d97429-167a-4d0b-8ec5-6d5630bf9139,asian.coach,premium,78.54,78.54,low,low,5,namesilo,,,22/09/2026 09:40
 5fed3e6f-8470-4f09-b7c0-6b93c298789b,gohungry.coach,available,19.99,,medium,low,9,name.com,,,
 5970fe2c-ed00-41ac-bcc3-9b913625e477,while.coach,available,19.99,,high,low,5,name.com,,,
 d1470ba6-db07-4ca4-99b8-3ec1e8fcd20d,tracking.coach,available,19.99,,medium,low,8,name.com,,,
 d7c10ccc-232d-473b-b67f-fd03b1ff2f6a,sesameoil.coach,available,19.99,,medium,low,10,name.com,,,
 1b15bb47-2b82-4af7-a92e-3f30c06920d7,duty.coach,available,19.99,,medium,low,4,name.com,,,
 8109e97b-51dc-4fcb-b6b3-c72cd136c8df,chemicalweapon.coach,available,19.99,,medium,low,15,name.com,,,
-72398c0b-3129-4973-8816-0ebb1af918bf,hunkydory.coach,available,19.99,92.99,high,low,10,name.com,,,
+72398c0b-3129-4973-8816-0ebb1af918bf,hunkydory.coach,available,17.99,77.99,medium,low,10,namesilo,,,22/09/2026 01:09
 2133dccf-2e37-438c-959c-9e6743a191d3,baggage.coach,available,19.99,,high,low,7,name.com,,,
 bfee644d-c37f-4323-950f-3634adcff8ff,developed.coach,available,19.99,92.99,high,low,9,name.com,,,
 d335a2ad-7231-4b27-bd5e-a694d6a7db87,orleans.coach,available,19.99,,high,low,7,name.com,,,
@@ -662,7 +661,7 @@ d335a2ad-7231-4b27-bd5e-a694d6a7db87,orleans.coach,available,19.99,,high,low,7,n
 3a944121-7f3e-4070-aa68-3ed69d75dc5a,criterion.coach,available,19.99,,high,low,9,name.com,,,
 2a74ea72-ae5f-45fb-a91b-28218f7cdeb7,hanger.coach,available,19.99,,medium,low,6,name.com,,,
 95dfc3e8-4286-4faa-8211-c60ec50f2ad9,previous.coach,available,19.99,,high,low,8,name.com,,,
-a0da19fa-be54-4787-9ca1-5e353e4bb598,content.coach,resell,,,medium,low,7,Dynadot Inc,22/12/2019 10:06,22/12/2026 10:06,19/09/2026 03:52
+a0da19fa-be54-4787-9ca1-5e353e4bb598,content.coach,resell,,,medium,low,7,Dynadot Inc,22/12/2019 10:06,22/12/2026 10:06,23/09/2026 03:42
 b54385cd-8042-454a-b229-a82440cd6e03,hand.coach,available,19.99,,high,low,4,name.com,,,
 9fa30293-951e-4835-b1c7-ac3d8f2877b8,lately.coach,available,19.99,,medium,low,6,name.com,,,
 7ecaa352-707b-41dc-9556-5f257e5caa43,shineat.coach,available,19.99,,high,low,8,name.com,,,
@@ -675,7 +674,7 @@ e1a895ea-781d-4545-b5d5-55a27cfe86d3,worried.coach,available,19.99,92.99,high,lo
 a505f305-ded1-47ea-9f5c-004762394b6a,earlier.coach,available,19.99,92.99,medium,low,7,name.com,,,
 af56bf0a-7fba-47d9-b256-936a7fc1e058,ameban.coach,available,11.98,95.98,low,low,6,namecheap,,,
 646270b4-df20-4be6-aaba-11ca0ba34ade,dedicated.coach,available,19.99,92.99,high,low,9,name.com,,,
-2b299513-cd30-408d-a152-bac65d11618f,allright.coach,available,19.99,92.99,medium,low,9,name.com,,,
+2b299513-cd30-408d-a152-bac65d11618f,allright.coach,available,11.98,95.98,medium,low,9,namecheap,,,22/09/2026 01:00
 e3df6fc5-24fb-4246-bb19-8a5814beebca,contents.coach,available,19.99,,medium,low,8,name.com,,,
 ae293bc4-5733-474b-ab45-b0e9d0a18103,garbed.coach,available,11.98,95.98,low,low,6,namecheap,,,06/08/2026 04:52
 6a08c997-fdb8-4952-85a5-d166cbfe8402,sly.coach,available,19.99,92.99,medium,low,3,name.com,,,
@@ -715,7 +714,7 @@ f485f23b-52c7-4b87-abce-d45fd37bf59e,gleaming.coach,available,11.98,95.98,low,lo
 baf80c8f-95b8-4671-b980-23936b23c34e,justintime.coach,available,19.99,,medium,low,12,name.com,,,
 015283b5-5c5a-49cb-8809-049b140e2ab6,gardencentre.coach,available,19.99,,high,low,13,name.com,,,
 ac68bddd-c8ec-4f75-9cc4-477a8d8b5704,discriminating.coach,available,19.99,,medium,low,14,name.com,,,
-dc4dffc0-33ae-47cd-a1c4-69cf5341efda,humble.coach,available,19.99,,high,low,6,name.com,,,
+dc4dffc0-33ae-47cd-a1c4-69cf5341efda,humble.coach,available,17.99,77.99,low,low,6,namesilo,,,22/09/2026 17:44
 eefcd809-c49f-4200-8a9b-2c6922804546,forehead.coach,available,19.99,,high,low,8,name.com,,,
 ea8a2680-3f31-49b9-9e8e-47577cb71811,septet.coach,available,11.98,95.98,low,low,6,namecheap,,,
 c21bb046-6efd-4db3-a033-ea515d1e5011,algolagnic.coach,available,11.98,95.98,low,low,10,namecheap,,,
@@ -723,7 +722,7 @@ c21bb046-6efd-4db3-a033-ea515d1e5011,algolagnic.coach,available,11.98,95.98,low,
 fa48c611-29e4-418e-aa6b-3e5800ebfaff,enthusiasm.coach,available,19.99,,high,low,10,name.com,,,
 83644f6e-d0fd-4e03-b575-9aca5cffa129,annular.coach,available,11.98,95.98,low,low,7,namecheap,,,
 e4e8fbd3-3f23-4ffe-a99c-4a016766d6b0,keeptime.coach,available,19.99,,high,low,9,name.com,,,
-a2504f39-ee96-424b-baf6-5f4ee5f4e9c0,abroad.coach,available,19.99,92.99,high,low,6,name.com,,,
+a2504f39-ee96-424b-baf6-5f4ee5f4e9c0,abroad.coach,available,17.99,77.99,low,low,6,namesilo,,,21/09/2026 14:31
 606b3a4d-104c-435a-9e64-bf4be8fbeb14,male.coach,available,19.99,,medium,low,4,name.com,,,
 d8795150-7f13-4a09-b002-cccdf9878070,suggest.coach,available,19.99,,high,low,7,name.com,,,
 73e37004-50ff-4114-aa8b-3d99e3083373,pestilent.coach,available,11.98,95.98,low,low,9,namecheap,,,08/08/2026 12:06
@@ -734,9 +733,9 @@ a03ea8b2-b4ed-46d4-85a7-949060f6d6bc,winterblues.coach,available,19.99,,low,low,
 4bb965ae-2913-4aba-9eee-9822079480bb,shocking.coach,available,19.99,92.99,medium,low,8,name.com,,,
 96b9e0c6-c833-48ec-a50b-3f4f2cf70fe0,jacks.coach,available,19.99,,medium,low,5,name.com,,,
 3e0a7688-cbd0-4751-8d33-a8d3191384c3,welltimed.coach,available,11.98,95.98,low,low,10,namecheap,,,06/08/2026 10:13
-f7a82f26-90b6-45fb-b7f1-5aff38248f2c,artistic.coach,available,19.99,,high,low,8,name.com,,,
+f7a82f26-90b6-45fb-b7f1-5aff38248f2c,artistic.coach,available,17.99,77.99,medium,low,8,namesilo,,,22/09/2026 09:09
 e1e0c5c4-e38c-43ae-98d4-29eb668e28ba,cracking.coach,available,11.98,95.98,low,low,8,namecheap,,,08/08/2026 12:25
-b78a96d0-436d-4716-ad0f-cacc372f0e80,severe.coach,available,19.99,,medium,low,6,name.com,,,
+b78a96d0-436d-4716-ad0f-cacc372f0e80,severe.coach,available,17.99,77.99,low,low,6,namesilo,,,22/09/2026 13:18
 aac6365e-20ce-4019-9bbf-748e7c3256c9,coldly.coach,available,19.99,,medium,low,6,name.com,,,
 8262ce13-5dd2-4098-b93e-ee43c07f6909,addition.coach,available,19.99,,high,low,8,name.com,,,
 c66cb7d9-e50b-476e-8d72-019939fe10e9,assistive.coach,available,11.98,95.98,low,low,9,namecheap,,,07/08/2026 06:40
@@ -744,7 +743,7 @@ a7a8b425-f194-482f-be66-7a175664732b,hightide.coach,available,19.99,,medium,low,
 1b06d88d-f003-4e73-a36b-3806c6defede,aphonic.coach,available,11.98,95.98,low,low,7,namecheap,,,05/08/2026 23:17
 5fdd522a-1bda-42b8-bfc0-2c4d68cab5db,employee.coach,available,19.99,,high,low,8,name.com,,,
 31cc86c5-847e-4335-bd8f-9a7ac410fd0e,calender.coach,available,19.99,,high,low,8,name.com,,,
-5aee1597-a376-4eaf-b5ea-6192d411f499,accomplished.coach,available,19.99,,high,low,12,name.com,,,
+5aee1597-a376-4eaf-b5ea-6192d411f499,accomplished.coach,available,19.99,,medium,low,12,name.com,,,
 e327f0fc-2363-481d-9ce1-fd22a7d9adc3,loads.coach,available,19.99,,high,low,5,name.com,,,
 9913d862-b60f-4f9a-92c2-a11f22fc6910,foundingfather.coach,available,19.99,,high,low,15,name.com,,,
 810bf84d-3125-4cec-9c7a-a4d83085ad10,asopposedto.coach,available,19.99,,medium,low,13,name.com,,,
@@ -753,12 +752,11 @@ f7f8e5ba-2c49-4b1c-8f04-761b2d40e26a,trumpian.coach,available,19.99,,high,low,8,
 e5730599-7e25-4b2c-b032-9a6360df64b2,giveitup.coach,available,19.99,,high,low,10,name.com,,,
 acef29d0-957e-418f-97b0-51e3856c861b,closetohome.coach,available,19.99,,medium,low,13,name.com,,,
 723e8ff6-d657-4d6c-a6e2-5e070ef66828,whitesnow.coach,available,19.99,,medium,low,10,name.com,,,
-414a3fcc-1060-4319-bd45-d3f11660465c,amethyst.coach,available,,,medium,high,8,,,,
 39037eda-36eb-454e-a27f-4544c9216f6c,vent.coach,available,19.99,,medium,low,4,name.com,,,
 ac464ed1-9482-4f35-8e60-1ccc3422a850,widen.coach,available,19.99,,medium,low,5,name.com,,,
 0f34d6f9-a8d7-4e77-a9ec-34b1ea559698,temporary.coach,available,19.99,,high,low,9,name.com,,,
 86d5a27f-cc46-4e4a-b3f9-65996196e6d1,laid.coach,available,19.99,,medium,low,4,name.com,,,
-f7c5062e-d9dc-4124-9a83-d7f275656452,antiacid.coach,available,19.99,,high,low,8,name.com,,,
+f7c5062e-d9dc-4124-9a83-d7f275656452,antiacid.coach,available,11.98,95.98,medium,low,8,namecheap,,,22/09/2026 05:47
 7995608c-2418-4d2a-8ca0-0809b0ff12f4,operatingsystem.coach,available,19.99,,high,low,16,name.com,,,
 046782ca-1f9e-4235-b1e1-eedde38be0a5,represented.coach,available,19.99,,medium,low,11,name.com,,,
 98dd58dd-cade-4c01-88df-caf5b592e681,particles.coach,available,19.99,,low,low,9,name.com,,,
@@ -793,19 +791,19 @@ a1e3108f-1261-4821-999f-ca85366877a3,leasing.coach,available,95.98,,high,low,7,n
 68213c9c-56ce-4073-b00c-f035d41de05c,goodrun.coach,available,19.99,,high,low,8,name.com,,,
 9c974a32-f9cc-4f0a-b337-1715263df760,iamwhatiam.coach,available,19.99,,medium,low,14,name.com,,,
 ec5f8303-359d-46de-88d5-d0adb70b31c6,longest.coach,available,19.99,,medium,low,7,name.com,,,
-00c884eb-1349-45be-845d-617bce33fe74,manageable.coach,available,19.99,92.99,high,low,10,name.com,,,
+00c884eb-1349-45be-845d-617bce33fe74,manageable.coach,available,17.99,77.99,medium,low,10,namesilo,,,21/09/2026 15:48
 9f119f72-d95d-441b-b529-87c5d7c165a1,cuba.coach,available,,,medium,low,4,,,,
 6bec99bb-e1e3-49f5-8204-0ef62490a140,wwwpage.coach,available,19.99,,high,low,8,name.com,,,
-2bfa2249-2488-4a5c-a861-b816353cc7eb,abouteast.coach,available,19.99,,medium,low,10,name.com,,,
+2bfa2249-2488-4a5c-a861-b816353cc7eb,abouteast.coach,available,19.99,,low,low,10,name.com,,,
 d6df3656-47e0-4ef3-ad42-5d9085d9c826,ticketwindow.coach,available,19.99,,medium,low,13,name.com,,,
-ca9f3e77-a8cd-4c94-8a06-cb3e705ff195,blonde.coach,available,19.99,,high,low,6,name.com,,,
+ca9f3e77-a8cd-4c94-8a06-cb3e705ff195,blonde.coach,available,17.99,77.99,medium,low,6,namesilo,,,22/09/2026 22:17
 3a2badfc-e583-41b2-a006-15c7db3a3472,proportion.coach,available,19.99,,high,low,10,name.com,,,
 656a9d15-6e57-4f64-83a8-e0675de8bb1c,century.coach,available,,,medium,low,7,,,,
 0062fad4-f134-4285-8ec5-3ce74c16c753,extend.coach,available,19.99,,high,low,6,name.com,,,
 81a7befd-78ab-4539-9097-39d1a6b200f4,bugged.coach,available,19.99,,medium,low,6,name.com,,,
 455abdc3-9e4e-4e3f-846b-bf4f22217383,capone.coach,available,19.99,,medium,low,6,name.com,,,
 0289d3f3-b724-418d-b0d3-961315852461,volcano.coach,available,19.99,,medium,low,7,name.com,,,
-7173435e-eb5d-4346-b7e5-80aa000e3f82,reliable.coach,available,19.99,,high,low,8,name.com,,,
+7173435e-eb5d-4346-b7e5-80aa000e3f82,reliable.coach,available,17.99,77.99,medium,low,8,namesilo,,,22/09/2026 13:45
 da459a03-ad8d-4dc5-afab-24c97d04f8c6,mandatory.coach,available,19.99,92.99,high,low,9,name.com,,,
 89df62df-9a49-43e8-a902-485221c9ce2c,kudos.coach,available,19.99,,high,low,5,name.com,,,
 7bd540c5-c956-41a2-bc7d-e32de33b4591,deadofwinter.coach,available,19.99,,low,low,14,name.com,,,
@@ -881,7 +879,7 @@ d97144bb-96bd-427d-b45e-b54179b9d3d5,naturewriter.coach,available,19.99,,low,low
 0f3745f4-d25a-4a7f-b842-6f5d8405f801,daughter.coach,available,19.99,,high,low,8,name.com,,,
 fb0b2e82-4e58-41bf-8340-39f2d66889b3,publication.coach,available,19.99,,medium,low,11,name.com,,,
 57012e4e-54a3-4c43-bdb2-430c12b47c11,yawn.coach,available,19.99,,medium,low,4,name.com,,,
-d169ca84-2f65-4a7d-9502-d82bd3a15f35,bouncy.coach,available,19.99,,high,low,6,name.com,,,
+d169ca84-2f65-4a7d-9502-d82bd3a15f35,bouncy.coach,available,17.99,77.99,low,low,6,namesilo,,,23/09/2026 01:24
 9a628fd0-fbc2-4771-85ac-40f569303016,turnout.coach,available,19.99,,medium,low,8,name.com,,,
 34ba9429-a00d-4fa4-99ee-28f91a762a80,tanks.coach,available,19.99,,medium,low,5,name.com,,,
 e8f3b2b6-bd07-4ad0-965a-22de47c133b7,acinar.coach,available,11.98,95.98,low,low,6,namecheap,,,
@@ -957,8 +955,8 @@ f5c0b615-4222-4964-8db7-23e47b7887ac,lplate.coach,available,19.99,,medium,low,7,
 21eaea15-efa3-40b8-a6a3-6e78147ec3ff,anappleaday.coach,available,19.99,,medium,low,14,name.com,,,
 517b6c76-7725-498f-984d-5714d4be0631,angel.coach,resell,,,high,low,5,"Sav.com, LLC",13/01/2021 11:12,13/01/2027 11:12,
 7ff52038-7e47-400e-800b-a276a52f165b,vscogirl.coach,available,19.99,,medium,low,9,name.com,,,
-94ea122a-d3be-4db8-a413-60bd560eaf20,sick.coach,available,19.99,,medium,low,4,name.com,,,
-89f2af8a-5803-41bf-90fb-607fc4f06847,austere.coach,available,19.99,,medium,low,7,name.com,,,
+94ea122a-d3be-4db8-a413-60bd560eaf20,sick.coach,available,11.98,95.98,low,low,4,namecheap,,,23/09/2026 02:10
+89f2af8a-5803-41bf-90fb-607fc4f06847,austere.coach,available,17.99,77.99,low,low,7,namesilo,,,22/09/2026 13:15
 02baf42f-7c10-44f1-98a8-80238287d60e,vermifuge.coach,available,11.98,95.98,low,low,9,namecheap,,,
 96e70360-92a3-4519-ba93-54f79c16743a,xxxiii.coach,available,11.98,95.98,low,low,6,namecheap,,,
 943cd0a6-548b-4657-9fb2-021decb8d39d,untrue.coach,available,19.99,,medium,low,6,name.com,,,
@@ -969,7 +967,7 @@ f5c0b615-4222-4964-8db7-23e47b7887ac,lplate.coach,available,19.99,,medium,low,7,
 ddcb0f03-0b8a-4d42-b9b4-82dd1982b080,actuarial.coach,available,11.98,95.98,low,low,9,namecheap,,,
 25151966-6ca9-41c4-9e28-9ef84cfa30fb,apogean.coach,available,11.98,95.98,low,low,7,namecheap,,,06/08/2026 01:57
 6880c47c-f43a-458b-b151-6bf331bb9752,intensively.coach,available,19.99,,medium,low,11,name.com,,,
-604b7320-d777-489f-925b-ab1567781f23,xvi.coach,available,19.99,92.99,medium,low,3,name.com,,,
+604b7320-d777-489f-925b-ab1567781f23,xvi.coach,available,17.99,77.99,low,low,3,namesilo,,,21/09/2026 11:49
 9929c779-8c36-4b51-a129-b278d2116a43,waiter.coach,available,19.99,,high,low,6,name.com,,,
 890842e4-5e70-4426-a9ff-20641d1a3594,dwelling.coach,available,19.99,,medium,low,8,name.com,,,
 f5e57606-aa66-4afa-a643-5dd448e0e9ef,rather.coach,available,19.99,,medium,low,6,name.com,,,
@@ -982,11 +980,11 @@ f24e6155-2cbb-4608-a002-980bac83ad00,adnexal.coach,available,11.98,95.98,low,low
 22662279-e795-4599-aef0-a387cebfcc34,bacteremic.coach,available,11.98,95.98,low,low,10,namecheap,,,08/08/2026 07:01
 da02526a-9a91-43a6-a573-eec9f8dc99ab,whoreson.coach,available,11.98,95.98,low,low,8,namecheap,,,08/08/2026 23:43
 9ac9e8ca-aa4f-43ef-9c4f-7e7385f21d70,greenbuilding.coach,available,19.99,,high,low,14,name.com,,,
-06f94a30-c3cf-4668-baf9-8c9129dc37c4,adapted.coach,available,19.99,92.99,high,low,7,name.com,,,
+06f94a30-c3cf-4668-baf9-8c9129dc37c4,adapted.coach,available,11.98,95.98,medium,low,7,namecheap,,,21/09/2026 17:02
 d6d84e4c-2f73-41a0-b905-e77d715174bf,applied.coach,available,11.98,95.98,low,low,7,namecheap,,,06/08/2026 07:11
 cd98f2b6-d5e5-4a22-86b6-0d8aaad61092,watching.coach,available,19.99,,medium,low,8,name.com,,,
 8e00017c-de12-481f-92b3-999702179411,blanksheet.coach,available,19.99,,high,low,11,name.com,,,
-20e2e938-3a4c-4aff-a1d3-438db10542cd,due.coach,available,19.99,,high,low,3,name.com,,,
+20e2e938-3a4c-4aff-a1d3-438db10542cd,due.coach,available,17.99,77.99,low,low,3,namesilo,,,22/09/2026 09:27
 d3cf4719-c47d-4fb1-8a68-80f14ccddc77,sandlike.coach,available,11.98,95.98,low,low,8,namecheap,,,06/08/2026 17:36
 802cdf79-fb03-42b9-a9e1-8e3151db13a9,gene.coach,available,19.99,,medium,low,4,name.com,,,
 b5317192-13f9-4acd-9afc-bb69bdaf2aca,kamikaze.coach,available,19.99,,high,low,8,name.com,,,
@@ -999,3 +997,5 @@ df7d4a70-cd80-492e-ab56-645e0fe48e5d,necessarily.coach,available,19.99,,medium,l
 569e3d6f-ca4c-4683-acb8-1365e9b3d500,sulphurous.coach,available,11.98,95.98,low,low,10,namecheap,,,
 1b3e7092-07a8-4b52-93ef-b61793dd2869,anybudy.coach,available,19.99,,medium,low,7,name.com,,,
 1fd20a9d-d7a7-497e-baa5-702d4fa84037,unmannerly.coach,available,11.98,95.98,low,low,10,namecheap,,,08/08/2026 07:32
+946b86bf-0d17-4bd6-a9bb-2f7f77761004,industrial.coach,available,19.99,,medium,low,10,name.com,,,
+fde09864-44f7-4736-88ac-3372ac40a6ad,internationallaw.coach,available,19.99,,high,low,17,name.com,,,
